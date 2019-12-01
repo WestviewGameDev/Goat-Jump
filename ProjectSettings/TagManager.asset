@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Barrier
+  - Platform
+  - Bottom Barrier
+  - Powerup
+  - Obstacle
+  - Pause Menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Visualizer
+  - UpperBarrier
+  - FallingObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 995803407
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wall (top)
+    uniqueID: 119645491
+    locked: 0
